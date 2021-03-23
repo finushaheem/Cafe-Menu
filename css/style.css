@@ -56,7 +56,7 @@ p.intro {
 	line-height: 24px;
 }
 a {
-	color: #777;
+	color: rgb(255, 255, 255);
 }
 a:hover, a:focus {
 	text-decoration: none;
