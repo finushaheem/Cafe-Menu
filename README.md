@@ -1,1 +1,1 @@
-# newsunrise
+# New Sunrise Cafe Menu
